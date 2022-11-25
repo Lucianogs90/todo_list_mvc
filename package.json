@@ -1,0 +1,21 @@
+{
+  "name": "todo_list_mvc",
+  "version": "1.0.0",
+  "description": "Aplicativo TODO list com o paradigma MVC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucianogs90/todo_list_mvc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lucianogs90/todo_list_mvc/issues"
+  },
+  "homepage": "https://github.com/Lucianogs90/todo_list_mvc#readme"
+}
